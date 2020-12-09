@@ -1,0 +1,33 @@
+
+CMPT 370 – Project proposal
+Cory and Daulton
+
+Game idea – a simple combat game where the player fights a snake like character. 
+similar to the following fight sequences:
+https://www.youtube.com/watch?v=6GCbQecD1GY&feature=youtu.be&t=28
+https://youtu.be/XSoRbNs9bDk?t=273
+
+
+Terrain
+-An arena
+-A sphere planet small enough to visually register curvature.
+
+Main player
+-body and weapon with the form to be determined.
+
+Add objects
+-Constraints on environment like trees, boulders, walls, columns, etc,
+-Environmental hazards, hazards from enemy character,
+-Health.
+
+Non-player character
+-enemy snake which moves fluidly, composed of links. 
+
+Change of view
+-first person point of view and a third person point of view.
+
+Challenges
+-Collision handling with camera in third person.
+-Appropriate constraints on randomized movement of enemy.
+-Basic fighting mechanics that are easily demonstrable.
+
